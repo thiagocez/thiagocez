@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thiagocez
-- 👀 I’m interested in JS, Go, Python and Data Science
+- 👀 I’m interested in JS, Go, Python languages, and Data Science topics
 - 🌱 I’m currently learning about GraphQL and TensorFlow
 
 <!---
